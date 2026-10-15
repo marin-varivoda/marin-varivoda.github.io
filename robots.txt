@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marin-varivoda.github.io/sitemap.xml
